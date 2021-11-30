@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @hautvfami
+- 👋 Hi, I’m a software engineer at One Mount Group in Hanoi, Vietnam
 - 👀 I’m interested in Mobile Software, Information Security, Image Processing and more
 - 🌱 I’m currently learning iOS app development with Swift
+- 💬 Ask me about Flutter and Dart.
+- 😄 Pronouns: he/him/his
 - 📫 Reach me at hautv.fami@gmail.com
 
 
